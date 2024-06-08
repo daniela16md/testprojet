@@ -67,13 +67,4 @@
   border-top-width: 8px;
   border-color: lightskyblue;
   animation: rotate3 1.5s linear infinite;
-}
-
-.container p {
-  position: fixed;
-  top: 55%;
-  left: 50%;
-  font-family: 700;
-  font-size: 18px;
-  color: blue;
 }/*# sourceMappingURL=style.css.map */
